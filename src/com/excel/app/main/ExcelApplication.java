@@ -1,10 +1,10 @@
 package com.excel.app.main;
 
-import com.excel.app.controller.MenuController;
+import com.excel.app.access.MenuAccess;
 
 public class ExcelApplication {
     public static void main(String[] args) {
-        MenuController controller = new MenuController();
+        MenuAccess controller = new MenuAccess();
         controller.start();
     }
 }

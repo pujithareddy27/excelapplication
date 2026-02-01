@@ -1,11 +1,11 @@
-package com.excel.app.controller;
+package com.excel.app.access;
 
 import java.io.File;
 import java.util.Scanner;
 import com.excel.app.service.ExcelService;
 import com.excel.app.service.ExcelServiceImpl;
 
-public class MenuController {
+public class MenuAccess {
 
     private final ExcelService excelService = new ExcelServiceImpl();
     private final Scanner sc = new Scanner(System.in);
