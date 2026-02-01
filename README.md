@@ -14,12 +14,16 @@ Copy Excel sheet:
 Both the source and destination excel files should already be created to use this function.
 
 # Adding jar files
-Download the "jar files for excel app" folder 
--> right click on the "ExcelApplicationInternship" project 
--> go to Build path 
--> go to configure build path
--> Libraries 
--> click on "class path"  (options get highlighted on the right side)
--> choose Add External JARs.. 
--> choose all the files from "jar files for excel app" 
--> Apply and close
+Follow the steps below:
+1. Download the "jar files for excel app" folder
+2. right click on the "ExcelApplicationInternship" project
+3. go to Build path
+4. go to configure build path
+5. Libraries
+6. click on "class path"  (options get highlighted on the right side)
+7. choose Add External JARs..
+8. choose all the files from "jar files for excel app"
+9. Apply and close
+
+# Detailed Design Document
+https://docs.google.com/document/d/1MvbV1ifVhUFCSuEFiTungiClMp_k2Gt0ioSiO3vxWgY/edit?usp=sharing
